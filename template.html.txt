@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<!-- Howard Coleman
+    template.html
+    3/14/2024-->
+<html lang="en">
+<head><head>
+<body>
+    <header>
+    <h1>Howard</h1>
+    <h2>Building websites that convert</h2>
+</header>
+<nav>
+portfolio about services contact
+</nav>
+<!-- This is where the main content if the website goes-->
+<main></main>
+<footer></footer>
+</body>
+</html>
+
+
+h
